@@ -42,6 +42,13 @@ public class ifStatements {
         //         girilen karakter kucuk harf ise onu buyuk harf olarak yazdirin,
         //         yoksa girilen karakteri yazdirin
 
+        //---------------------
+
+        int input = 100;
+
+        for (int i = input; i >=1 ; i-=7 ) {
+            System.out.print(i + " ");
+        }
 
 
     }
