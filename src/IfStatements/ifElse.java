@@ -20,6 +20,11 @@ public class ifElse {
             System.out.println("List of names = " + name);
         }
 
+        for (String name : names) {
+            System.out.println("List of names = " + name);
+        }
+
+
 
     }
 }
